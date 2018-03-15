@@ -1,0 +1,23 @@
+{
+  "name": "ng-admin-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gadget114514/ng-admin-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gadget114514/ng-admin-sample/issues"
+  },
+  "homepage": "https://github.com/gadget114514/ng-admin-sample#readme",
+  "dependencies": {
+    "json-server": "^0.12.1",
+    "ng-admin": "^1.0.13"
+  }
+}
